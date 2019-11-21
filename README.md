@@ -1,6 +1,6 @@
 # PINs: Parameterized Indexed Value Function for Efficient Exploration in Reinforcement Learning 
 
-This is the reference implementation of the algorithm PINs in the paper. This repository is based on environments from [bsuite](https://github.com/deepmind/bsuite). To install [bsuite], please follow instructions at https://github.com/deepmind/bsuite
+This is the reference implementation of the algorithm PINs in the paper. This repository is based on environments from [bsuite](https://github.com/deepmind/bsuite). To install bsuite, please follow instructions at https://github.com/deepmind/bsuite
 
 #### Instructions
 
